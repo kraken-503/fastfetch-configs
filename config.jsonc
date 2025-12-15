@@ -34,21 +34,19 @@
   "break",
         {
             "type": "os",
-            "format": "Android 13",
             "key": " ",
             "keyColor": "33",  // = color3
         },
         "break",
         {
             "type": "kernel",
-            "format": "Linux 4.14.320",
             "key": " ",
             "keyColor": "33",
         },
         "break",
         {
             "type": "packages",
-            "format": "{} (apt)",
+            "format": "{}",
             "key": " ",
             "keyColor": "33",  
         },
@@ -67,7 +65,6 @@
         "break",
         {
             "type": "wm",
-            "format": "SurfaceFlinger",
             "key": " ",
             "keyColor": "33", 
         },
