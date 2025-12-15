@@ -1,7 +1,7 @@
 ![htfmffmf](https://github.com/user-attachments/assets/6b58fee8-1d93-4eab-8ae5-a8bf93f86edd)
 
 
-# Fastfetch configs
+# Overview
 
 ***This is a collection of my custom themed fastfetch configs, feel free to use.***
 
@@ -11,7 +11,7 @@
 1. [Preview](#preview)
 2. [Installation](#installation)
 3. [Contributing](#contributing)
-5. [License](#license)
+4. [License](#license)
 
 
 ## Previews
@@ -40,6 +40,7 @@ Termux
 pkg install fastfetch -y
 ```
 
+<br><br>
 
 **Generating a config file**
 ```ba
