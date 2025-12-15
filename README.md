@@ -33,9 +33,21 @@ sudo pacman -Sy fastfetch -y
 ```
 Termux
 ```ba
-pkg install fastfetch -yy``bpkg install fastfetch -yy``pkg install fastfetch -yy```pkg insllow these steps:
+pkg install fastfetch -y
 
 ```
+
+**Generating a config file**
+```ba
+fastfetch --gen-config
+```
+
+**Backing up old fastfetch config:**
+```ba
+cd .config/fastfetch/
+cp config.jsonc config.jsonc
+```
+
 **Clone the repo:**
 ```ba
 git clone https://github.com/kraken-503/fastfetch-configs.git
