@@ -3,14 +3,14 @@
 
 # Fastfetch configs
 
-Welcome to the **Awesome Project**! This is a simple app that does amazing things. 🚀
+***This is a collection of my custom themed fastfetch configs, feel free to use.***
+
 
 ## Table of Contents
 
 1. [Preview](#preview)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
+3. [Contributing](#contributing)
 5. [License](#license)
 
 
@@ -22,25 +22,30 @@ Welcome to the **Awesome Project**! This is a simple app that does amazing thing
 
 
 ## Installation
-Install fastfetch, if not already:
+
+**Install fastfetch, if not already:**
+
 Debian
 ```ba
 sudo apt install fastfetch -y
 ```
+
 Arch
 ```ba
 sudo pacman -Sy fastfetch -y
 ```
+
 Termux
 ```ba
 pkg install fastfetch -y
-
 ```
+
 
 **Generating a config file**
 ```ba
 fastfetch --gen-config
 ```
+
 
 **Backing up old fastfetch config:**
 ```ba
@@ -48,9 +53,10 @@ cd .config/fastfetch/
 cp config.jsonc config.jsonc
 ```
 
+
 **Clone the repo:**
 ```ba
 git clone https://github.com/kraken-503/fastfetch-configs.git
 cd fastfetch-configs/
 cp -r * ~/.config/fastfetch/
-'''
+```
