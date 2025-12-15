@@ -1,0 +1,100 @@
+//   _____ _____ _____ _____ _____ _____ _____ _____ _____ 
+//  |   __|  _  |   __|_   _|   __|   __|_   _|     |  |  |
+//  |   __|     |__   | | | |   __|   __| | | |   --|     |
+//  |__|  |__|__|_____| |_| |__|  |_____| |_| |_____|__|__|  ARCH  
+//
+//  by Bina
+
+
+// execute with: fastfetch --colors-block-range-start 9 --colors-block-width 3
+
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "~/.config/fastfetch/img/cg.png",
+        "height": 29,
+        "padding": {
+            "top": 0,
+            "right": 2,
+            "bottom": 2
+        }
+    },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+	"break",
+	"break",
+  "break",
+  "break",
+  "break",                                                               "break",
+  "break",
+  "break",
+  "break",
+  "break",
+        {
+            "type": "os",
+            "format": "Android 13",
+            "key": " ",
+            "keyColor": "33",  // = color3
+        },
+        "break",
+        {
+            "type": "kernel",
+            "format": "Linux 4.14.320",
+            "key": " ",
+            "keyColor": "33",
+        },
+        "break",
+        {
+            "type": "packages",
+            "format": "{} (apt)",
+            "key": " ",
+            "keyColor": "33",  
+        },
+        "break",
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "wm",
+            "format": "SurfaceFlinger",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "media",
+            "key": "󰝚 ",
+            "keyColor": "33", 
+        },
+        "break",
+        "break",
+        "break",
+        { 
+          "type": "command",
+          "key":  " ",
+          "shell": "/bin/zsh",
+          "text": "echo '名誉を失う前に死ぬ'",
+          "format": "{1}",
+        },
+        "break",
+        "break",
+        "break",
+    ]
+}
