@@ -1,4 +1,3 @@
-# Ricing
 ![htfmffmf](https://github.com/user-attachments/assets/6b58fee8-1d93-4eab-8ae5-a8bf93f86edd)
 
 
@@ -8,7 +7,7 @@ Welcome to the **Awesome Project**! This is a simple app that does amazing thing
 
 ## Table of Contents
 
-1. [Preview](#previews)
+1. [Preview](#preview)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
@@ -23,10 +22,23 @@ Welcome to the **Awesome Project**! This is a simple app that does amazing thing
 
 
 ## Installation
-
-To install this project, follow these steps:
-
+Install fastfetch, if not already:
+Debian
 ```ba
-git clone https://github.com/yourusername/awesome-project.git
-cd awesome-projec
-npm install
+sudo apt install fastfetch -y
+```
+Arch
+```ba
+sudo pacman -Sy fastfetch -y
+```
+Termux
+```ba
+pkg install fastfetch -yy``bpkg install fastfetch -yy``pkg install fastfetch -yy```pkg insllow these steps:
+
+```
+**Clone the repo:**
+```ba
+git clone https://github.com/kraken-503/fastfetch-configs.git
+cd fastfetch-configs/
+cp -r * ~/.config/fastfetch/
+'''
