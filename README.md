@@ -16,6 +16,10 @@ Welcome to the **Awesome Project**! This is a simple app that does amazing thing
 
 
 ## Previews
+**Termux**
+
+<img width="500" height="500" alt="Screenshot_20251210-215858_Termux (1)" src="https://github.com/user-attachments/assets/198ff0b7-4a20-44f7-9d49-db9394a80710" />
+
 
 
 ## Installation
