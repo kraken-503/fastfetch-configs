@@ -50,8 +50,8 @@ fastfetch --gen-config
 
 **Backing up old fastfetch config:**
 ```ba
-cd .config/fastfetch/
-cp config.jsonc config.jsonc
+cd ~/.config/fastfetch/
+cp config.jsonc config.jsonc.bk
 ```
 
 
