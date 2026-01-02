@@ -10,8 +10,6 @@
 
 1. [Preview](#preview)
 2. [Installation](#installation)
-3. [Contributing](#contributing)
-4. [License](#license)
 
 
 ## Preview
@@ -61,3 +59,7 @@ git clone https://github.com/kraken-503/fastfetch-configs.git
 cd fastfetch-configs/
 cp -r * ~/.config/fastfetch/
 ```
+
+<p align="center">
+  <em>Made with ❤️ by kraken-503</em>
+</p>
