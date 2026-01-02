@@ -59,6 +59,7 @@ git clone https://github.com/kraken-503/fastfetch-configs.git
 cd fastfetch-configs/
 cp -r * ~/.config/fastfetch/
 ```
+<br>
 
 <p align="center">
   <em>Made with ❤️ by kraken-503</em>
